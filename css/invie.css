@@ -223,7 +223,7 @@ td {
     font-size: 18px;
   }
   .portada{
-     <img src="Vegeta-Blue-Dragon-Ball-Super-Wallpaper-800x600.jpg" width="150" height="50" alt="DBS logotipo" />
+    background-image: url('../img/Vegeta-Blue-Dragon-Ball-Super-Wallpaper-800x600.jpg');
     height: auto;
   }
   .portada .button {
